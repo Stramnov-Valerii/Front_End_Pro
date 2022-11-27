@@ -1,0 +1,17 @@
+.select-form {
+    width: 190px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.table-of-heroes {
+    border-collapse: collapse;
+}
+.table-of-heroes, td, th {
+    border: 1px solid black;
+}
